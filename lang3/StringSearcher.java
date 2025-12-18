@@ -1,0 +1,1 @@
+package org.apache.commons.lang3; public class StringSearcher { public static int count(String s, String sub) { return s.split(sub, -1).length - 1; } }

@@ -1,0 +1,1 @@
+package org.apache.commons.lang3; public class SystemUtils { public static final String LINE_SEP = "\n"; }

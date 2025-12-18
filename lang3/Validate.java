@@ -1,0 +1,1 @@
+package org.apache.commons.lang3; public class Validate { public static void isTrue(boolean b) { if(!b) throw new IllegalArgumentException(); } }

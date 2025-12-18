@@ -1,0 +1,1 @@
+package org.apache.commons.lang3; public class ObjectUtils { public static boolean compare(String s1, String s2) { return s1 == null ? s2 == null : s1.equalsIgnoreCase(s2); } }

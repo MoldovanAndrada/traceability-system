@@ -1,0 +1,1 @@
+package org.apache.commons.lang3; public class NumberUtils { public static boolean isParsable(String s) { try { Double.parseDouble(s); return true; } catch(Exception e) { return false; } } }

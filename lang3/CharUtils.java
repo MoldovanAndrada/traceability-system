@@ -1,0 +1,1 @@
+package org.apache.commons.lang3; public class CharUtils { public static boolean isWhitespace(char ch) { return ch <= ' '; } }
